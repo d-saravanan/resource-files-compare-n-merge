@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ResourcesComparer")]
+[assembly: AssemblyTitle("ResourcesSrcComparer")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ResourcesComparer")]
+[assembly: AssemblyProduct("ResourcesSrcComparer")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("6aef2f16-e323-4ea1-9414-36acd1613b18")]
+[assembly: Guid("0c0433b9-d5ce-40c2-8fd8-4290ba17510e")]
 
 // Version information for an assembly consists of the following four values:
 //
